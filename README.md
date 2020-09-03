@@ -10,3 +10,7 @@ This project is to investigate the library
 To run ths command: 
 ```bash
 $ npm install
+
+Please run the local server
+```Bash
+light-server
